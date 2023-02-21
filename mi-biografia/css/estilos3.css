@@ -1,0 +1,57 @@
+*
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html
+{
+    font-size: 97.5%;
+}
+.encabezado{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(8, 247, 223);
+    text-align: right;
+
+}
+h1{
+    padding-bottom: 5px;
+}
+
+.nav
+{
+    list-style: none;
+    background-color: rgb(8, 247, 223);
+    text-align: center;
+}
+.nav a
+{
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    color: black;
+}
+.links:hover{
+    color: blue;
+}
+main{
+    text-align: center;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(./biografía.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.seccion1{
+    padding-top: 15px;
+}
