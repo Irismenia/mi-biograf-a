@@ -55,3 +55,106 @@ body{
 .seccion1{
     padding-top: 15px;
 }
+.seccion1{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: left;
+    padding: 20px;
+    width: 70%;
+    margin: 7px auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(0,0,0,5);
+}
+.seccion2{
+    padding-top: 15px;
+}
+.seccion2{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: left;
+    padding: 20px;
+    width: 70%;
+    margin: 7px auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(0,0,0,5);
+}
+.seccion3{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: left;
+    padding: 20px;
+    width: 70%;
+    margin: 7px auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(0,0,0,5);
+}
+.seccion4{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: left;
+    padding: 90px;
+    width: 70%;
+    margin: 7px auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(0,0,0,5);
+}
+.img{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    width: 70%;
+    margin: 7px auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(0,0,0,5);
+}
+.parrafo{
+    background-color: rgb(230, 234, 232);
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    width: 70%;
+    margin: 7px auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(0,0,0,5);
+}
+.colegio{
+    background-color: rgb(9, 195, 164);
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    width: 70%;
+    margin: 7px auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(0,0,0,5);
+}
+.hobbies{
+    background-color: rgb(9, 195, 164);
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    width: 70%;
+    margin: 7px auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(0,0,0,5);
+}
+.imagenes{
+    background-color: rgb(9, 195, 164);
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    width: 70%;
+    margin: 7px auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(0,0,0,5);
+}
+.vida{
+    background-color: rgb(9, 195, 164);
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    width: 70%;
+    margin: 7px auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(0,0,0,5);
+}
